@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=larahemille&label=Profile%20views&color=0e75b6&style=flat" alt="larahemille" /> </p>
 
-- 🌱 I'm a hardworking, creative & curious student with big plans and tech ideas. I'm a polymath and love to study UX and how Psychological Patterns affect the way that USERS see and interact with YOUR pages and systems.
+- 🌱 I'm a hardworking, creative & curious student. I'm a simple, humble person and READY to work and learn through open communication and feedback!
+
+- Due to my background in Law, I'm easy to work and comunicate with, open to dialogue and negotiating ideas and terms (as a soft skill very much needed while working side-by-side with a big team! Count me in! :D).
+
+- I'm also a polymath and love to study UX and how Psychological Patterns affect the way that USERS see and interact with pages and systems. Your users is a HUMAN, and HUMAN BEHAVIOR can be studies through neuroscience - therefore, we can learn how to make systems and applications more fluid, dynamic, ethic and responsive for them. :)
 
 - - 🌱 I'm currently learning **the languages displayed in the badges BELOW! I intend to learn extra languages soon, but these are my focus at the moment. I know as a beginner, I can't try to carry the world and learn all languages at once and it's better to focus on learning VERY WELL just a few of them first!**
 
